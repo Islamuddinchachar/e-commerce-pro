@@ -1,0 +1,38 @@
+@media(max-width:950px) {
+    .wraper{
+        padding-left:1rem;
+        padding-right: 1rem;
+    }
+    header h1{
+        font-size: 36px;
+        margin-left: 10%;
+    }
+header i{
+    font-size: 30px;
+}
+nav {
+    display: none;
+}
+.bar-icon{
+    display: inline;
+    position: absolute;
+}
+}
+@media(max-width:567px){
+    .wraper{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    header h1{
+        font-size: 26px;
+        margin-left: 32%;
+    }
+    header i{
+        font-size: 25px;
+    }
+    .bar-icon{
+        display: inline;
+        position: absolute;
+    }
+
+}
